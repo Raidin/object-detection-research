@@ -29,10 +29,12 @@ jupyter==1.0.0
 jupyter-client==5.3.4
 jupyter-console==6.1.0
 jupyter-core==4.6.1
+jupyterthemes==0.20.0
 Keras==2.3.1
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 kiwisolver==1.1.0
+lesscpy==0.14.0
 Markdown==3.1.1
 MarkupSafe==1.1.1
 matplotlib==3.1.2
@@ -51,6 +53,7 @@ parso==0.6.0
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==7.0.0
+ply==3.11
 prometheus-client==0.7.1
 prompt-toolkit==3.0.3
 protobuf==3.11.2
